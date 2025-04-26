@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Jyotiux/frontend_/static/css/main.dcc2c202.css",
+    "main.js": "/Jyotiux/frontend_/static/js/main.d17556c9.js",
+    "static/media/2.png": "/Jyotiux/frontend_/static/media/2.0d8a518237f2c5cf4c4f.png",
+    "static/media/3.png": "/Jyotiux/frontend_/static/media/3.2b8f68043032cd37d8bd.png",
+    "static/media/1.png": "/Jyotiux/frontend_/static/media/1.72984393a2daab91f727.png",
+    "static/media/jeans.png": "/Jyotiux/frontend_/static/media/jeans.5fe2a795ffa7def00160.png",
+    "static/media/jacket.png": "/Jyotiux/frontend_/static/media/jacket.96507968cec8acf73d56.png",
+    "static/media/sneakers.png": "/Jyotiux/frontend_/static/media/sneakers.ae480eda752ea2066f30.png",
+    "static/media/tshirt.png": "/Jyotiux/frontend_/static/media/tshirt.8abec4e706f6319a3721.png",
+    "index.html": "/Jyotiux/frontend_/index.html",
+    "main.dcc2c202.css.map": "/Jyotiux/frontend_/static/css/main.dcc2c202.css.map",
+    "main.d17556c9.js.map": "/Jyotiux/frontend_/static/js/main.d17556c9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dcc2c202.css",
+    "static/js/main.d17556c9.js"
+  ]
+}
